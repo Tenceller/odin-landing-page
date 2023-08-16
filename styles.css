@@ -110,3 +110,33 @@ ul{
     text-align: end;
     font-weight: bolder;
 }
+.fourth-bar{
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
+.action-box{
+    padding: 25px 50px;
+    background-color: #3882f6;
+    width: 500px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.box-left-title{
+    color: white;
+    font-weight: bold;
+
+}
+.box-left-text{
+    color: white;
+    font-size: 12px;
+}
+.sign-up2{
+    background-color: #3882f6;
+    color: white;
+    border-color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
