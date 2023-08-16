@@ -140,3 +140,10 @@ ul{
     border-radius: 5px;
     padding: 5px 10px;
 }
+.fith-bar{
+    background-color: #1f2937;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    font-size: 15px;
+}
