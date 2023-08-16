@@ -1,0 +1,16 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    background-color: #1f2937;
+    color: white;
+}
+ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
