@@ -2,15 +2,57 @@ body{
     padding: 0;
     margin: 0;
 }
+
 .header{
     align-items: center;
     display: flex;
     justify-content: space-around;
     background-color: #1f2937;
     color: white;
+    padding-bottom: 40px;
 }
+
 ul{
     display: flex;
     gap: 20px;
     list-style: none;
+}
+
+.under-header{
+    background-color: #1f2937;
+    display: flex;
+    color: white;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-bottom: 80px;
+}
+
+.main-text{
+    
+    width: 400px;
+}
+.text-header{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+    padding-bottom: 5px;
+}
+
+.text-paragraph{
+    font-size: 18px;
+    color: #e5e7eb;
+    padding-bottom: 5px;
+}
+.sign-up{
+    background-color: #3882f6;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    
+}
+.image-placeholder{
+    background-color: gray;
+    padding: 90px 110px;
 }
