@@ -92,3 +92,21 @@ ul{
     width: 150px;
     text-align: center;
 }
+.third-bar{
+    padding: 50px;
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+}
+.quote-box{
+    width: 800px;
+    
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+}
+.author{
+    text-align: end;
+    font-weight: bolder;
+}
